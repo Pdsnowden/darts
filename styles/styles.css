@@ -1,0 +1,19 @@
+/* Color nummbers from Abobecolor and taken from a picture of a dart board
+the picture is stored on adobe color */
+.center {
+  margin: auto;
+  display: block;
+  border: 3px solid green;
+  padding: 10px;
+  margin-bottom: 30px;
+  margin-top: 45px;
+}
+/*TABLET STYLESHEET
+
+The following CSS affects all screen sizes larger than 480 pixels wide.
+*/
+/*
+DESKTOP STYLESHEET
+
+The following CSS affects all screen sizes larger than 1024 pixels wide.
+*/
